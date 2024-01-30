@@ -1,7 +1,7 @@
 {
     "name": "stonemanhero/cyrlat",
     "description": "Translate Serbian Cyrillic to Latin and vice-versa.",
-    "license" : "GNU GPLv3",
+    "license" : "GPL-3.0+",
     "type": "package",
     "autoload": {
         "psr-4": {
