@@ -1,0 +1,16 @@
+{
+    "name": "stone/cyrlat",
+    "description": "Translate Serbian Cyrillic to Latin and vice-versa.",
+    "autoload": {
+        "psr-4": {
+            "Stone\\Cyrlat\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "stone",
+            "email": "stonemanhero@gmail.com"
+        }
+    ],
+    "require": {}
+}
