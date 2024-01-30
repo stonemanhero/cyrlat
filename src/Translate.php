@@ -1,6 +1,6 @@
 <?php
 
-namespace Stone\Cyrlat;
+namespace Stonemanhero\Cyrlat;
 
 class Translate
 {

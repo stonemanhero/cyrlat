@@ -1,9 +1,10 @@
 {
-    "name": "stone/cyrlat",
+    "name": "stonemanhero/cyrlat",
     "description": "Translate Serbian Cyrillic to Latin and vice-versa.",
+    "type": "package",
     "autoload": {
         "psr-4": {
-            "Stone\\Cyrlat\\": "src/"
+            "Stonemanhero\\Cyrlat\\": "src/"
         }
     },
     "authors": [
